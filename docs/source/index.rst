@@ -1,22 +1,21 @@
 Documentacion sercotec Activo Fijo
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Negrita** (/lu'make/) Sercotec Aplicacion activo Fijo.
+Sitio web : `aqui sitio web <https://world.openfoodfacts.org/>`_
+*cursiva*
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ver la sección :doc:`Uso` para examinar las funciones principales
 
 .. note::
 
-   This project is under active development.
+    Proyecto aun en desarrollo.
 
-Contents
+Contenidos
 --------
 
 .. toctree::
 
-   usage
-   api
+   Introduccion
+   Uso
+   Funciones
