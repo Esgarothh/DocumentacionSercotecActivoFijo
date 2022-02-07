@@ -1,7 +1,7 @@
 Documentacion sercotec Activo Fijo
 ===================================
 
-**Negrita** (/lu'make/) Sercotec Aplicacion activo Fijo.
+**Negrita**  Sercotec Aplicacion activo Fijo.
 Sitio web : `aqui sitio web <https://world.openfoodfacts.org/>`_
 *cursiva*
 

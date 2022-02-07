@@ -1,32 +1,29 @@
 Uso
 =====
 
-.. _installation:
+.. _Uso:
 
-Installation
+Subsection1
 ------------
 
-To use Lumache, first install it using pip:
+Aqui contenido
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   aqui codigo verbatim
 
-Creating recipes
+SubSection2
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Sintaxis para cuadro funcion ``funcion.get_mini_cuadro()``:
 
-.. autofunction:: lumache.get_random_ingredients
+.. autofunction:: funcion.get_mini_cuadro()
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Parametro ``ParA`` . Usando syntax python, :py:func:`sercotec.funcionpython`.
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
+
+Ejemplo:
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
