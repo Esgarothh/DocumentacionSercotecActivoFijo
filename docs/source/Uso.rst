@@ -1,16 +1,16 @@
 Uso
 =====
 
-.. _Uso:
+.. _Usuarios:
 
-Subsection1
+Usuarios
 ------------
 
-Aqui contenido
+Creación de usuarios con la función
 
 .. code-block:: console
 
-   aqui codigo verbatim
+   create_user();
 
 SubSection2
 ----------------
@@ -29,3 +29,10 @@ Ejemplo:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+SubSection3
+----------------
+
+hola
+
+SubSection4
+----------------

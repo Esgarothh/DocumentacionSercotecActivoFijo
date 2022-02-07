@@ -12,7 +12,7 @@ Ver la sección :doc:`Uso` para examinar las funciones principales
     Proyecto aun en desarrollo.
 
 Contenidos
---------
+-----------
 
 .. toctree::
 
