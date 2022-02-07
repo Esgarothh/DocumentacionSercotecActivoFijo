@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Documentacion sercotec Activo Fijo
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
